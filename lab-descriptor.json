@@ -75,7 +75,7 @@
     },
     {
       "name": "Isolation of lymphocytes from whole blood",
-      "short-name": "Isolation-of-lymphocytes",
+      "short-name": "isolation-of-lymphocytes",
       "repo": "https://github.com/virtual-labs/exp-Isolation-of-lymphocytes-au",
       "tag": "v1.0.0",
       "deploy": true
@@ -94,6 +94,6 @@
     ]
   },
   "exp_name": "Isolation of lymphocytes from whole blood",
-  "exp_short_name": "Isolation-of-lymphocytes",
-  "version": "v0.3.0"
+  "exp_short_name": "isolation-of-lymphocytes",
+  "version": "v0.4.0"
 }
