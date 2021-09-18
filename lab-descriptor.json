@@ -1,93 +1,99 @@
 {
-    "broadArea": {
-        "name": "Biotechnology and Biomedical Engineering",
-        "link": "https://www.vlab.co.in/broad-area-biotechnology-and-biomedical-engineering"
-        },
-    "lab": "Immunology Virtual Lab I",
-    "deployLab": true,
-    "phase": 2,
-    "collegeName": "AMRT",
-    "baseUrl": "ivl1-au.vlabs.ac.in",
-    "introduction": "The branch of biomedicine concerned with the structure and function of the immune system, innate and acquired immunity, the bodily distinction of self from no self, and laboratory techniques involving the interaction of antigens with specific antibodies. The laboratory course can be further utilized as a self-learning or reference material for life science students.",
-    "experiments": [
-                        {
-                            "name": "Collection of Serum from Blood",
-                            "short-name": "serum-from-blood",
-                            "repo": "https://github.com/virtual-labs/exp-serum-from-blood-au",
-                            "tag": "v1.0.0",
-                            "deploy": true
-                        },
-                        {
-                            "name": "Blood Grouping Experiment",
-                            "short-name": "blood-grouping-experiment",
-                            "repo": "https://github.com/virtual-labs/exp-blood-grouping-experiment-au",
-                            "tag": "v1.0.0",
-                            "deploy": true
-                        },
-                        {
-                            "name": "Latex Agglutination",
-                            "short-name": "latex-agglutination",
-                            "repo": "https://github.com/virtual-labs/exp-latex-agglutination-au",
-                            "tag": "v1.0.0",
-                            "deploy": true
-                        },
-                        {
-                            "name": "INDIRECT Elisa",
-                            "short-name": "indirect-elisa",
-                            "repo": "https://github.com/virtual-labs/exp-indirect-elisa-au",
-                            "tag": "v1.0.0",
-                            "deploy": true
-                        },
-                        {
-                            "name": "DIRECT Elisa",
-                            "short-name": "direct-elisa",
-                            "repo": "https://github.com/virtual-labs/exp-direct-elisa-au",
-                            "tag": "v1.0.0",
-                            "deploy": true
-                        },
-                        {
-                            "name": "SANDWICH Elisa",
-                            "short-name": "sandwich-elisa",
-                            "repo": "https://github.com/virtual-labs/exp-sandwich-elisa-au",
-                            "tag": "v1.0.0",
-                            "deploy": true
-                        },
-                        {
-                            "name": "ELISPOT Assay",
-                            "short-name": "elispot-assay",
-                            "repo": "https://github.com/virtual-labs/exp-elispot-assay-au",
-                            "tag": "v1.0.0",
-                            "deploy": true
-                        },
-                        {
-                            "name": "Antibody Labeling with HRP",
-                            "short-name": "antibody-labeling",
-                            "repo": "https://github.com/virtual-labs/exp-antibody-labeling-au",
-                            "tag": "v1.0.0",
-                            "deploy": true
-                        },
-                        {
-                            "name": "Extraction of IgG Antibodies from Immunized Hen Egg",
-                            "short-name": "immunized-hen-egg",
-                            "repo": "https://github.com/virtual-labs/exp-immunized-hen-egg-au",
-                            "tag": "v1.0.0",
-                            "deploy": true
-                        },
-                        {
-                            "name": "Isolation of lymphocytes from whole blood",
-                            "short-name": "Isolation-of-lymphocytes",
-                            "repo": "https://github.com/virtual-labs/exp-Isolation-of-lymphocytes-au",
-                            "tag": "v1.0.0",
-                            "deploy": true
-                        }
-                   ],
-    "targetAudience": {
-        "UG": ["B.Tech./ B.E in Biotechnology"],
-        "PG": ["PG in Biotechnology/Microbiology/Bioinformatics/Biomedical Science"]
+  "broadArea": {
+    "name": "Biotechnology and Biomedical Engineering",
+    "link": "https://www.vlab.co.in/broad-area-biotechnology-and-biomedical-engineering"
+  },
+  "lab": "Immunology Virtual Lab I",
+  "deployLab": true,
+  "phase": 2,
+  "collegeName": "AMRT",
+  "baseUrl": "ivl1-au.vlabs.ac.in",
+  "introduction": "The branch of biomedicine concerned with the structure and function of the immune system, innate and acquired immunity, the bodily distinction of self from no self, and laboratory techniques involving the interaction of antigens with specific antibodies. The laboratory course can be further utilized as a self-learning or reference material for life science students.",
+  "experiments": [
+    {
+      "name": "Collection of Serum from Blood",
+      "short-name": "serum-from-blood",
+      "repo": "https://github.com/virtual-labs/exp-serum-from-blood-au",
+      "tag": "v1.0.0",
+      "deploy": true
     },
-    "objective": "To understand the various techniques applied to process a blood sample and obtain Serum.</br></br>Introducing Latex agglutination tests, that have been applied in clinical laboratories for the detection of infectious diseases.</br></br>To introduce the principle of ELISA and its application in diagnostics and the different types of ELISAs possible</br></br>To introduce the principle of ELISA and its application in diagnostics and the different types of ELISAs possible</br></br>To introduce the principle of ELISA and its application in diagnostics and the different types of ELISAs possible</br></br>To study an economical, simple, and large-scale separation method for IgG from immunized hen egg.</br></br>To isolate the lymphocytes from whole blood by density gradient centrifugation",
-    "courseAlignment": {
-        "description": "The syllabi of this lab aligns to the following disciplines.",
-        "universities": ["UG in Biotechnology/Microbiology/Bioinformatics/Biomedical Science","PG in Biotechnology/Microbiology/Bioinformatics/Biomedical Science"]
+    {
+      "name": "Blood Grouping Experiment",
+      "short-name": "blood-grouping-experiment",
+      "repo": "https://github.com/virtual-labs/exp-blood-grouping-experiment-au",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Latex Agglutination",
+      "short-name": "latex-agglutination",
+      "repo": "https://github.com/virtual-labs/exp-latex-agglutination-au",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "INDIRECT Elisa",
+      "short-name": "indirect-elisa",
+      "repo": "https://github.com/virtual-labs/exp-indirect-elisa-au",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "DIRECT Elisa",
+      "short-name": "direct-elisa",
+      "repo": "https://github.com/virtual-labs/exp-direct-elisa-au",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "SANDWICH Elisa",
+      "short-name": "sandwich-elisa",
+      "repo": "https://github.com/virtual-labs/exp-sandwich-elisa-au",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "ELISPOT Assay",
+      "short-name": "elispot-assay",
+      "repo": "https://github.com/virtual-labs/exp-elispot-assay-au",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Antibody Labeling with HRP",
+      "short-name": "antibody-labeling",
+      "repo": "https://github.com/virtual-labs/exp-antibody-labeling-au",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Extraction of IgG Antibodies from Immunized Hen Egg",
+      "short-name": "immunized-hen-egg",
+      "repo": "https://github.com/virtual-labs/exp-immunized-hen-egg-au",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Isolation of lymphocytes from whole blood",
+      "short-name": "Isolation-of-lymphocytes",
+      "repo": "https://github.com/virtual-labs/exp-Isolation-of-lymphocytes-au",
+      "tag": "v1.0.0",
+      "deploy": true
     }
+  ],
+  "targetAudience": {
+    "UG": ["B.Tech./ B.E in Biotechnology"],
+    "PG": ["PG in Biotechnology/Microbiology/Bioinformatics/Biomedical Science"]
+  },
+  "objective": "To understand the various techniques applied to process a blood sample and obtain Serum.</br></br>Introducing Latex agglutination tests, that have been applied in clinical laboratories for the detection of infectious diseases.</br></br>To introduce the principle of ELISA and its application in diagnostics and the different types of ELISAs possible</br></br>To introduce the principle of ELISA and its application in diagnostics and the different types of ELISAs possible</br></br>To introduce the principle of ELISA and its application in diagnostics and the different types of ELISAs possible</br></br>To study an economical, simple, and large-scale separation method for IgG from immunized hen egg.</br></br>To isolate the lymphocytes from whole blood by density gradient centrifugation",
+  "courseAlignment": {
+    "description": "The syllabi of this lab aligns to the following disciplines.",
+    "universities": [
+      "UG in Biotechnology/Microbiology/Bioinformatics/Biomedical Science",
+      "PG in Biotechnology/Microbiology/Bioinformatics/Biomedical Science"
+    ]
+  },
+  "exp_name": "Isolation of lymphocytes from whole blood",
+  "exp_short_name": "Isolation-of-lymphocytes",
+  "version": "v0.1.0"
 }
