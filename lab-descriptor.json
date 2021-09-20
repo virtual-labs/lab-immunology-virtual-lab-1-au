@@ -28,14 +28,14 @@
       "name": "Latex Agglutination",
       "short-name": "latex-agglutination",
       "repo": "https://github.com/virtual-labs/exp-latex-agglutination-au",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "INDIRECT Elisa",
       "short-name": "indirect-elisa",
       "repo": "https://github.com/virtual-labs/exp-indirect-elisa-au",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
@@ -49,14 +49,14 @@
       "name": "SANDWICH Elisa",
       "short-name": "sandwich-elisa",
       "repo": "https://github.com/virtual-labs/exp-sandwich-elisa-au",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "ELISPOT Assay",
       "short-name": "elispot-assay",
       "repo": "https://github.com/virtual-labs/exp-elispot-assay-au",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
@@ -70,7 +70,7 @@
       "name": "Extraction of IgG Antibodies from Immunized Hen Egg",
       "short-name": "immunized-hen-egg",
       "repo": "https://github.com/virtual-labs/exp-immunized-hen-egg-au",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
@@ -95,5 +95,5 @@
   },
   "exp_name": "Isolation of lymphocytes from whole blood",
   "exp_short_name": "isolation-of-lymphocytes",
-  "version": "v0.5.0"
+  "version": "v0.6.0"
 }
