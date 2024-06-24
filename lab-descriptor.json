@@ -1,9 +1,11 @@
 {
   "broadArea": {
     "name": "Biotechnology and Biomedical Engineering",
-    "link": "https://www.vlab.co.in/broad-area-biotechnology-and-biomedical-engineering"
+    "link": "https://www.vlab.co.in/broad-area-biotechnology-and-biomedical-engineering",
+    "code": "BIO"
   },
   "lab": "Immunology Virtual Lab I",
+  "lab_display_name": "Immunology Virtual Lab I",
   "deployLab": true,
   "phase": 2,
   "collegeName": "AMRT",
@@ -92,8 +94,5 @@
       "UG in Biotechnology/Microbiology/Bioinformatics/Biomedical Science",
       "PG in Biotechnology/Microbiology/Bioinformatics/Biomedical Science"
     ]
-  },
-  "exp_name": "Isolation of lymphocytes from whole blood",
-  "exp_short_name": "isolation-of-lymphocytes",
-  "version": "v0.7.0"
+  }
 }
